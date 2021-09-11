@@ -1,3 +1,6 @@
+# About This App
+This is a front end React project for keeping contacts  with Adding , Removing, Updating And Filtering 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
